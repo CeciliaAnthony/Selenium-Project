@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15606" started-at="2019-04-27T18:42:51Z" finished-at="2019-04-27T18:43:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15606" started-at="2019-04-27T18:42:51Z" finished-at="2019-04-27T18:43:07Z">
+      <class name="flipkartDataVerification.FlipkartDataVerification">
+        <test-method status="PASS" signature="initializeChromeDriver()[pri:0, instance:flipkartDataVerification.FlipkartDataVerification@233c0b17]" name="initializeChromeDriver" is-config="true" duration-ms="8763" started-at="2019-04-27T18:42:43Z" finished-at="2019-04-27T18:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChromeDriver -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:flipkartDataVerification.FlipkartDataVerification@233c0b17]" name="Login" duration-ms="5857" started-at="2019-04-27T18:42:51Z" finished-at="2019-04-27T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="searchIDIPadPro()[pri:1, instance:flipkartDataVerification.FlipkartDataVerification@233c0b17]" name="searchIDIPadPro" duration-ms="4538" started-at="2019-04-27T18:42:57Z" finished-at="2019-04-27T18:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIDIPadPro -->
+        <test-method status="PASS" signature="searchIDIPhoneX()[pri:1, instance:flipkartDataVerification.FlipkartDataVerification@233c0b17]" name="searchIDIPhoneX" duration-ms="3675" started-at="2019-04-27T18:43:02Z" finished-at="2019-04-27T18:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIDIPhoneX -->
+        <test-method status="PASS" signature="searchIDOnePlus6T()[pri:1, instance:flipkartDataVerification.FlipkartDataVerification@233c0b17]" name="searchIDOnePlus6T" duration-ms="1515" started-at="2019-04-27T18:43:06Z" finished-at="2019-04-27T18:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIDOnePlus6T -->
+        <test-method status="PASS" signature="closeWebDriver()[pri:0, instance:flipkartDataVerification.FlipkartDataVerification@233c0b17]" name="closeWebDriver" is-config="true" duration-ms="679" started-at="2019-04-27T18:43:07Z" finished-at="2019-04-27T18:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebDriver -->
+      </class> <!-- flipkartDataVerification.FlipkartDataVerification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

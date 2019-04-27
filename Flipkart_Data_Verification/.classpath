@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/New folder/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/New folder/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/New folder/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/New folder/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/New folder/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/New folder/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
