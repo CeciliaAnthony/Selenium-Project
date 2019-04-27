@@ -35,9 +35,9 @@ public class FlipkartDataVerification {
 	public static String inputSheetName = "Product_Details";
 	public static String outputSheetName = "Retreived_Data";
 	public static String inputExcelFile = "C:\\Users\\Admin\\Desktop\\New folder\\FilpkartDataVerification\\FlipkartDataVerification.xlsx";
-	public static String outputExcelFile = "C:\\Users\\Admin\\Desktop\\New folder\\FilpkartDataVerification\\OutputData.xlsx";
-	public static String userName = "7741020471";
-	public static String password = "ABHIJIT@1991";
+	public static String outputExcelFile = "C:\\Users\\Admin\\Desktop\\New folder\\FilpkartDataVerification\\OutputData.xlsx";	
+	public static String userName = "";//Please enter username
+	public static String password = "";//Please enter password
 	public static String className = "";
 	public static String productName = "";
 	public static String productPrice = "";
